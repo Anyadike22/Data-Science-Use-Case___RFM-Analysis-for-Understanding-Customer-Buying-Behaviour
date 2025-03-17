@@ -6,7 +6,10 @@ RFM Analysis is a concept used by Data Science professionals, especially in the 
 
 Using RFM Analysis, a business can assess customers’:
 
-## recency (the date they made their last purchase)
+### recency (the date they made their last purchase)
 ### frequency (how often they make purchases)
 ### monetary value (the amount spent on purchases)
-Recency, Frequency, and Monetary value of a customer are three key metrics that provide information about customer engagement, loyalty, and value to a business.
+
+### Recency, Frequency, and Monetary value of a customer are three key metrics that provide information about customer engagement, loyalty, and value to a business.
+
+For a detailed analysis of the business use case, refer to the attached colab notebook.
